@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Recursion_Program">
+      <UniqueIdentifier>{679cc394-b22c-435e-b464-2aa1f738cc66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Structure_Programs">
+      <UniqueIdentifier>{9d78f50b-675e-494a-b4af-bf67a6656f70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="String_Programs">
+      <UniqueIdentifier>{e139e093-c7ca-4a2b-9e18-f8d5ce42d959}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="function_programs">
+      <UniqueIdentifier>{5cd78e11-e948-4861-a391-d98d7e077470}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Array_Programs">
+      <UniqueIdentifier>{6abf0daf-5e94-4d4c-a89a-b23905fed343}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pointers_Programs">
+      <UniqueIdentifier>{1c55d828-4953-49aa-9605-fa0d3698ac18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pattern_Programs">
+      <UniqueIdentifier>{cd04763d-9b87-47cf-a8de-e3eee7700d55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Basic_Programs">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="37_calculate_gross_salary.c">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="38_check_neon.c">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="39_check_spy.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="40_check_vowel.c">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="41_grade.c">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="42_age.c">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="43_display_triple_sum.c">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="44_find_distance.c">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="45_swap_two_no.c">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="46_swap_two_numbers.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="47_print_ascii_value.c">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="48_positive_or_neg.c">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="49_even_odd.c">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="50_div_by_5_11.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="51_check_alhpabet.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="52_sp_cp.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="53_calculate_grade.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="54_gross_salary.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="55_find_max.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="56_find_max_three.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="57_leap_year.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="58_check_aphabet.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="59_check_alphabet_digit.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="60_min_no_notes.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="61_temp_check.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="62_car_prob.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="63_chef_tv.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="64_bank.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="65_guards.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="68_calculator_switch.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="69_week_days.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="70_no_of_days_month.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="71_check_vowel.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="72_Max_No_Switch_Case.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="73_Even_Odd_Switch.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="66_cred_programs.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="67_student_capacity.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="74_check_no_pos_neg_switch.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="75_check_div_5_11.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="76_leap_year_switch_case.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="77_check_aphabet_digit_special_character.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="78_print_natural_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="79_rev_natural_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="80_print_aphabet_a_z.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="81_print_even_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="82_print_odd_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="83_find_sum_of_natural_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="84_find_sum_of_even_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="85_find_sum_of_odd_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="86_print_mul_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="87_count_digit.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="88_print_sum_of_digit.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="89_rev_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="97_check_prime_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="98_check_perfect_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="99_check_duck_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="100_check_no_strong_or_not.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="101_check_armstrong_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="90_check_palindrome_or_not.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="91_print_ascii_char.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="92_power_of_number.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="93_find_factors_of_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="94_find_first_last_digit_of_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="95_find_sum_of_first_last_digit.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="96_swap_first_last_digit_of_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="107_freq_count.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="108_print_prime_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="109_display_nth_perfect.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="110_display_duck_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="111_display_1_to_n_Strong_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="104_check_no_happy_or_not.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="112_display_1_to_n_armstrong_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="113_find_all_prime_factors.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="114_find_sum_of_all_perfect_no.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="115_display_cube_upto_integer.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="116_calculat_sum_of_series.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="117_swap_first_last_2_digit.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="102_check_spy_or_not.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="103_check_neon_or_not.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="105_fibonacci_series_nth.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="106_count_digit_frequency.cpp">
+      <Filter>Basic_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="demo.cpp">
+      <Filter>Recursion_Program</Filter>
+    </ClCompile>
+    <ClCompile Include="1_create_struct_and_print.cpp">
+      <Filter>Structure_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="2_input_two_employee_info_using_struct.cpp">
+      <Filter>Structure_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="3_struct_of_student_crud.cpp">
+      <Filter>Structure_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="301_string_programs.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="302_find_length_of_string.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="303_copy_one_string_from_another.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="304_concate_two_string.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="305_compare_two_string.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="306_convert_string_lower_to_upper.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="307_convert_String_in_lower.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="308_toggle_case.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="309_find_total_alphaber_digit_special_character.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="310_count_vowel_consonant_in_string.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="311_count_word_in_string.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="312_rev_string.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="312_reverse_string.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="313_check_string_palindrome.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="314_reverse_string_by_word.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="315_first_occurence_of_character.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="316_find_last_occurence_in_string.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="317_count_all_occurence_of_string.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="318_count_occurence_of_char_in_string.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="319_find_highest_frequency_count.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="320_count_lowest_occurence_char_in_string.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="321_count_occurrence_of_each_character_string.cpp">
+      <Filter>String_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="255_functions.cpp">
+      <Filter>function_programs</Filter>
+    </ClCompile>
+    <ClCompile Include="256_function.cpp">
+      <Filter>function_programs</Filter>
+    </ClCompile>
+    <ClCompile Include="257_progrm_to_print_array_using_recursion.cpp">
+      <Filter>function_programs</Filter>
+    </ClCompile>
+    <ClCompile Include="258_print_array_in_reverse_order.cpp">
+      <Filter>function_programs</Filter>
+    </ClCompile>
+    <ClCompile Include="259_calculate_sum_of_array.cpp">
+      <Filter>function_programs</Filter>
+    </ClCompile>
+    <ClCompile Include="260_calculate_avg_array.cpp">
+      <Filter>function_programs</Filter>
+    </ClCompile>
+    <ClCompile Include="261_find_largest_no.cpp">
+      <Filter>function_programs</Filter>
+    </ClCompile>
+    <ClCompile Include="262_find_second_max_element_in_array_using_recursion.cpp">
+      <Filter>function_programs</Filter>
+    </ClCompile>
+    <ClCompile Include="263_smallest_element.cpp">
+      <Filter>function_programs</Filter>
+    </ClCompile>
+    <ClCompile Include="171_create_print_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="172_calculate_array_sum.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="173_even_odd_sum_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="174_find_max_min_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="175_reverse_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="176_ascending_order.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="177_pair_element_equal_to_sum.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="178_occurence_of_sort_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="179_search_element_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="180_find_floor_ceiling_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="181_print_missing_element.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="182_count_duplicate_no.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="183_print_all_unique_element.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="184_input_2_3_matrix_display.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="185_find_min_max_3_3_matrix_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="186_merge_two_array_2d.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="187_find_prime_no_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="188_display_all_prime_element_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="189_display_3_3_matrix.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="190_addition_of_two_matrices_2d.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="191_substract_two_matrices.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="192_multiplication_of_matrices.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="193_transpose_matrix.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="194_insert_element_specified_position.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="195_print_missin_val_of_ascending_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="196_print_reverse_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="197_display_occurence_of_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="198_merge_two_arrays.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="199_odd_even_integer_seprate_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="200_delete_element.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="201_second_largest_element_in_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="202_pair_withe_given_sum.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="203_majority_of_element.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="204_rotate_an_array_n_postion.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="205_ceiling_of_sorted_array.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="206_find_ceiling_1_to_10.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="207_find_smallest_missing_element.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="208_print_next_greater_element.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="209_closet_sum_of_0.cpp">
+      <Filter>Array_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="239_pointer_add_two_no.cpp">
+      <Filter>Pointers_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="239_pointers.cpp">
+      <Filter>Pointers_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="252_insert_element_specified_position_pointer.cpp">
+      <Filter>Pointers_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="253_missing_element_using_calloc_pointer.cpp">
+      <Filter>Pointers_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="118_pattern_prog.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="119_pattern_prog.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="120_pattern_prog.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="121_pattern_prog.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="122_pattern_prog.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="123_pattern_prog.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="124_pattern_prog.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="125_pattern_prog.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="126_pattern_prog.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="127_pattern_prog.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="128_pattern.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="129_pattern.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="130_pattern.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="131_pattern.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="132_pattern.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="134_pattern.cpp">
+      <Filter>Pattern_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="4_update_name_of_emp_by_name.cpp">
+      <Filter>Structure_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="5_update_emp_name_by_name.cpp">
+      <Filter>Structure_Programs</Filter>
+    </ClCompile>
+    <ClCompile Include="6_insert_record_using_index.cpp">
+      <Filter>Structure_Programs</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
